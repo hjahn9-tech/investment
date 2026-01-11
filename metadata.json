@@ -1,0 +1,5 @@
+{
+  "name": "InsightFlow - Investment News",
+  "description": "An Apple-style, white-tone investment news aggregator collecting data for 9 key sectors using AI.",
+  "requestFramePermissions": []
+}
